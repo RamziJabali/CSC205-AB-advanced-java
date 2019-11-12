@@ -44,7 +44,7 @@ public class DeckHand {
         }
         do {
             index++;
-            if (deckOfCards[index] != null && deckOfCards[index].getValue() == value) {
+            if (index < deckOfCards.length && deckOfCards[index] != null && deckOfCards[index].getValue() == value) {
                 discardedCard = new Card(deckOfCards[index].getSuit(), deckOfCards[index].getValue());
                 deckOfCards[index] = null;
                 return discardedCard;

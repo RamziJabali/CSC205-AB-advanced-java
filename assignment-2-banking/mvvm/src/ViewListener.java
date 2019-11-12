@@ -1,3 +1,3 @@
-//public interface ViewListener {
-//    void enteredInput(String input);
-//}
+public interface ViewListener {
+    void enteredInput(String input);
+}

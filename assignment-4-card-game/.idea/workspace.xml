@@ -14,20 +14,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Program4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1112">
-              <caret line="164" column="58" selection-start-line="164" selection-start-column="58" selection-end-line="164" selection-end-column="58" />
+            <state relative-caret-position="759">
+              <caret line="347" column="71" selection-start-line="347" selection-start-column="71" selection-end-line="347" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4460#4461#0" expanded="true" />
-                <element signature="e#4508#4509#0" expanded="true" />
-                <element signature="e#10555#10556#0" expanded="true" />
-                <element signature="e#10609#10610#0" expanded="true" />
-                <element signature="e#11076#11077#0" expanded="true" />
-                <element signature="e#11106#11107#0" expanded="true" />
-                <element signature="e#12672#12673#0" expanded="true" />
-                <element signature="e#12710#12711#0" expanded="true" />
-                <element signature="e#12758#12759#0" expanded="true" />
-                <element signature="e#12798#12799#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -36,22 +26,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DeckHand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+            <state relative-caret-position="1368">
+              <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
               <folding>
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#2373#2374#0" expanded="true" />
+                <element signature="e#1586#1587#0" expanded="true" />
+                <element signature="e#1641#1642#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -59,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Card.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1252">
+            <state relative-caret-position="1440">
               <caret line="64" selection-start-column="7" selection-end-line="64" />
               <folding>
                 <element signature="e#185#186#0" expanded="true" />
@@ -98,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="width" value="2560" />
     <option name="height" value="1353" />
   </component>
@@ -179,8 +159,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="2560" height="1353" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.0118156755" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -188,11 +167,11 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3207127" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.60258484" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.022271715" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32962137" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956383" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.9777283" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -250,16 +229,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java" />
     <entry file="file://$PROJECT_DIR$/src/Card.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1252">
+        <state relative-caret-position="1440">
           <caret line="64" selection-start-column="7" selection-end-line="64" />
           <folding>
             <element signature="e#185#186#0" expanded="true" />
@@ -272,32 +245,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DeckHand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        <state relative-caret-position="1368">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
           <folding>
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#2373#2374#0" expanded="true" />
+            <element signature="e#1586#1587#0" expanded="true" />
+            <element signature="e#1641#1642#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Program4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1112">
-          <caret line="164" column="58" selection-start-line="164" selection-start-column="58" selection-end-line="164" selection-end-column="58" />
+        <state relative-caret-position="759">
+          <caret line="347" column="71" selection-start-line="347" selection-start-column="71" selection-end-line="347" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4460#4461#0" expanded="true" />
-            <element signature="e#4508#4509#0" expanded="true" />
-            <element signature="e#10555#10556#0" expanded="true" />
-            <element signature="e#10609#10610#0" expanded="true" />
-            <element signature="e#11076#11077#0" expanded="true" />
-            <element signature="e#11106#11107#0" expanded="true" />
-            <element signature="e#12672#12673#0" expanded="true" />
-            <element signature="e#12710#12711#0" expanded="true" />
-            <element signature="e#12758#12759#0" expanded="true" />
-            <element signature="e#12798#12799#0" expanded="true" />
           </folding>
         </state>
       </provider>

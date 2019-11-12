@@ -275,7 +275,7 @@ public class Program3 {
 
  class Program3Model {
 
-    public final String FILE_PATH = "/Users/ramzijabali/Code/Program3/src/dataBase.txt";
+    public final String FILE_PATH = "/Users/ramzijabali/Code/CSC205-AB-advanced-java/assignment-3-database-manipulator/src/dataBase.txt";
     public Scanner kb = new Scanner(System.in);
     public File dataBase = new File(FILE_PATH);
     public Scanner readDataBase = new Scanner(dataBase);

@@ -18,13 +18,13 @@ public class Program4 {
             "(5) To get how many cards you have in your deck\n" +
             "(6) To get a count on a certain card of your choosing\n" +
             "(7) To exit";
-    private static final String CARD_NUMBER = "Enter a number for suit:" +
+    private static final String CARD_NUMBER = "Enter a number for suit:\n" +
             "(1) for Clubs\n" +
             "(2) for Diamonds\n" +
             "(3) for Hearts\n" +
             "(4) for Spades";
 
-    private static final String CARD_NUMBER_2 = "Enter a number for the value of the card:\n" +
+    private static final String CARD_NUMBER_2 = "\nEnter a number for the value of the card:\n" +
             "(1) for Ace" +
             "(2)-(10) are numbers that would accompany the suit value\n" +
             "(11) for Jack\n" +
@@ -344,7 +344,8 @@ public class Program4 {
                     println(FINISHED_PROCESS);
                 case 6:
                     println("insert a Value and i'll tell you how many times that value comes up in the deck!");
-                    println("This value occurs " + deckHand.count(kb.nextInt()) + " times");
+                    int value = kb.nextInt();
+                    println("This value occurs " + deckHand.count(value) + " times");
                     println(FINISHED_PROCESS);
                 case 7:
                     return;
